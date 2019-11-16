@@ -57,5 +57,4 @@ An2
 <li>Sabau Andreea - 5</li>
 <li>Stirbu Andreea Daniela - 4</li>
 <li>Tuca Paul - 4</li>
-<li>Udovita Adela - 4</li>
 <li>Vlad Laurentiu - 4</li>
